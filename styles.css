@@ -1,0 +1,23 @@
+body {
+  outline:2px groove #dddddd;
+  font-size: 100%;
+  font-family: Verdana;
+  background-image: linear-gradient(to bottom, black, pink, white);/* hsl(0,0%,99%);*/
+  background-clip: content-box;
+  margin: 0% 8% 0% 8% ;
+  padding:2% 1%;
+  overflow-y: auto;
+}
+
+a { text-decoration:none!important;}
+
+table ul {list-style: circle;
+  padding-left: 10px;
+  }
+
+li, table li {
+  text-indent: 1px; /*This controls the space between bullets and text */
+  color:hsl(0,0%, 40%);
+  list-style: outside;
+  font-size:1.25vw;
+  }
