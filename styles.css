@@ -3,7 +3,7 @@ body {
   font-size: 100%;
   font-family: Verdana;
   background-image: linear-gradient(to bottom, black, pink, white);/* hsl(0,0%,99%);*/
-  background-clip: content-box;
+  
   margin: 0% 8% 0% 8% ;
   padding:2% 1%;
   overflow-y: auto;
