@@ -2,8 +2,9 @@ body {
   outline:2px groove #dddddd;
   font-size: 100%;
   font-family: Verdana;
+  color: blue;
   background-image: linear-gradient(to bottom, black, pink, white);/* hsl(0,0%,99%);*/
-  
+
   margin: 0% 8% 0% 8% ;
   padding:2% 1%;
   overflow-y: auto;
