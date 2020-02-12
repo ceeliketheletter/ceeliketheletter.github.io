@@ -10,14 +10,3 @@ body {
 }
 
 a { text-decoration:none!important;}
-
-table ul {list-style: circle;
-  padding-left: 10px;
-  }
-
-li, table li {
-  text-indent: 1px; /*This controls the space between bullets and text */
-  color:hsl(0,0%, 40%);
-  list-style: outside;
-  font-size:1.25vw;
-  }
